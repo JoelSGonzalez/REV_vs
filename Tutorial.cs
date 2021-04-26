@@ -17,6 +17,7 @@ namespace REVOLUTION_continues
         {
             InitializeComponent();
             ShowTutorial();
+            //novo comentário inútil
         }
 
         public void ShowTutorial()
